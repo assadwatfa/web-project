@@ -77,7 +77,7 @@ CREATE TABLE `project_users` (
 --
 
 INSERT INTO `project_users` (`id`, `firstname`, `lastname`, `email`, `password`, `password_recovery`, `phone`, `permissions`, `address`, `date_joined`) VALUES
-(9, 'Hassan', 'Jawhar', 'hassan-jawhar@hotmail.com', '118c5c147f6d3136cd66005c14e5dd20', '', '71332309', 1, 'Beirut', '2016-05-14 14:43:25');
+(9, 'Hassan', 'J.', 'hassan@hotmail.com', '118c5c147f6d3136cd66005c14e5dd20', '', '123456', 1, 'Lebanon', '2016-05-14 14:43:25');
 
 --
 -- Indexes for dumped tables
